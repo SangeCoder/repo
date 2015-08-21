@@ -62,6 +62,10 @@ CentOS 6
     
     wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-6.repo
     
+CentOS 7
+
+    wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
+    
 运行yum makecache生成缓存
     
     yum clean all
